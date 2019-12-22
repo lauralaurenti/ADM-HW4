@@ -1,4 +1,5 @@
 # ADM-HW5
+This is the repository for the 5th homework of the ADM course.  
 In this repository you will find: <br>
 * This README.md  <br>
 * A file named main.ipynb that is a jupyter file with all the code and comments for the homework. <br>
